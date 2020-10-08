@@ -1,0 +1,22 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+#root {
+  height: 100%;
+}
+
+.news-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+}
+.title {
+  font-size: 32px;
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
